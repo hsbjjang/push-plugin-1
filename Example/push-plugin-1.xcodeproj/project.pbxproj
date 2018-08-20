@@ -39,7 +39,7 @@
 /* Begin PBXFileReference section */
 		089295AACEDE4B2CD6D87227 /* Pods_push_plugin_1_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_push_plugin_1_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		31F4A2BCABC866582BE4740A /* Pods-push-plugin-1_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-push-plugin-1_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-push-plugin-1_Example/Pods-push-plugin-1_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		377CA99760E50DD4057C8B83 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		377CA99760E50DD4057C8B83 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		3ADCC1D26444BC484BA04CEC /* Pods-push-plugin-1_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-push-plugin-1_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-push-plugin-1_Tests/Pods-push-plugin-1_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* push-plugin-1_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "push-plugin-1_Example.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -61,10 +61,10 @@
 		6003F5BB195388D20070C39A /* Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Tests.m; sourceTree = "<group>"; };
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
 		614ABB31DFB88B7C8BD01094 /* Pods-push-plugin-1_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-push-plugin-1_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-push-plugin-1_Tests/Pods-push-plugin-1_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		6B75F9B52EC0B5533E0757E3 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		6B75F9B52EC0B5533E0757E3 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		C574BF94E1CBCA30DDA3E15C /* push-plugin-1.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = "push-plugin-1.podspec"; path = "../push-plugin-1.podspec"; sourceTree = "<group>"; };
+		C574BF94E1CBCA30DDA3E15C /* push-plugin-1.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = "push-plugin-1.podspec"; path = "../push-plugin-1.podspec"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		D2200BCC30933566AEE89A32 /* Pods-push-plugin-1_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-push-plugin-1_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-push-plugin-1_Example/Pods-push-plugin-1_Example.release.xcconfig"; sourceTree = "<group>"; };
 		DB95D47080A1A0CC98EDA64B /* Pods_push_plugin_1_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_push_plugin_1_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */

@@ -1,0 +1,22 @@
+{
+  "name": "push-plugin-1",
+  "version": "0.1.0",
+  "summary": "A short description of push-plugin-1.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/hsb/push-plugin-1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "hsb": "sukbumjjang@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/hsb/push-plugin-1.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "push-plugin-1/Classes/**/*"
+}
