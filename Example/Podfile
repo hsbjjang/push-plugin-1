@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'push-plugin-1_Example' do
+  pod 'push-plugin-1', :path => '../'
+
+  target 'push-plugin-1_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
